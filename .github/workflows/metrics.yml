@@ -27,4 +27,9 @@ jobs:
           plugin_languages_details: bytes-size, percentage
 
           extras_css: |
-            .text-small { display: none !important; }
+            footer, .footer, .meta, [id^="metrics-footer"] { 
+              display: none !important; 
+            }
+            svg {
+              padding-bottom: 0 !important;
+            }
