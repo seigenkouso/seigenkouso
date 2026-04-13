@@ -25,11 +25,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
-
-          extras_css: |
-            footer, .footer, .meta, [id^="metrics-footer"] { 
-              display: none !important; 
-            }
-            svg {
-              padding-bottom: 0 !important;
-            }
