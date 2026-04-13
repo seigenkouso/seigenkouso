@@ -4,6 +4,6 @@
 
 <br>
 
-<div align="center">
+<div align="start">
   <img src="github-metrics.svg" alt="Metrics">
 </div>
